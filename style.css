@@ -169,7 +169,7 @@ nav{
 }
 
 .image_container img:nth-child(2){
-    transform: translateY(-70p);
+    transform: translateY(-70px);
 }
 
 .image_content{
